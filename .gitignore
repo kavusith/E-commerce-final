@@ -1,7 +1,5 @@
+venv/
+__pycache__/
+instance/
 .env
-venv
-
-__pycache__
-virtual_env
-.vscode
-.pytest_cache
+.vscode/
